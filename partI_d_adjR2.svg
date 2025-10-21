@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+<line x1="40" y1="360" x2="560" y2="360" stroke="black" />
+<line x1="40" y1="40" x2="40" y2="360" stroke="black" />
+<path d="M 40.00 360.00 L 97.78 76.61 L 155.56 77.69 L 213.33 78.02 L 271.11 72.85 L 328.89 55.46 L 386.67 49.33 L 444.44 40.00 L 502.22 42.43 L 560.00 45.45" fill="none" stroke="#1f77b4" stroke-width="2" stroke-dasharray="0" />
+<text x="300.0" y="395" text-anchor="middle" font-size="14">Predictor Count</text>
+<text x="15" y="200.0" transform="rotate(-90 15,200.0)" text-anchor="middle" font-size="14">Adjusted R^2</text>
+<text x="300.0" y="25" text-anchor="middle" font-size="16">Part I (d): Adjusted R^2</text>
+<text x="560" y="55" text-anchor="end" font-size="12" fill="#1f77b4">Adjusted R^2</text>
+</svg>
